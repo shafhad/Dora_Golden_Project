@@ -80,7 +80,7 @@ function preload() {
     swiper2Img    = loadImage("sprites/Swiper2.png");
     swiper3Img    = loadImage("sprites/Swiper2.png");
 
-    endImg        = loadImage("sprites/End Card.png");
+    endImg        = loadImage("sprites/Endcard.png");
     handImg       = loadImage("sprites/hand.png");
 
     bgMusic       = loadSound("Dora.mp3");
